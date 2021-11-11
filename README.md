@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JaredLBailey
+- 👀 I’m interested in machine learning in R and Python
+- 🌱 I’m currently learning ML DevOps
+- 💞️ I’m looking to collaborate on ML projects
+- 📫 How to reach me Jared.L.Bailey@gmail.com
