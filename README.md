@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JaredLBailey
-- 👀 I’m interested in machine learning in R and Python
-- 🌱 I’m currently learning ML DevOps
+- 👀 I’m interested in machine learning in Python, C++, and R
+- 🌱 I’m currently learning ML DevOps and Robotics
 - 💞️ I’m looking to collaborate on ML projects
-- 📫 How to reach me Jared.L.Bailey@gmail.com
+- 📫 How to reach me Jared.L.Bailey@gmail.com or Jared.L.Bailey@duke.edu
